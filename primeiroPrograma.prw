@@ -1,4 +1,5 @@
-#include protheus.ch 
+#include "protheus.ch" 
+
 /* 
 +===========================================+ 
 | Programa: Cálculo do Fatorial | 
